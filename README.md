@@ -5,9 +5,9 @@
 
 ---
 
-🌱 Actualmente aprendiendo **[especifica aquí]**  
-💼 En busca de oportunidades como **[rol deseado]**  
-📫 Puedes contactarme en: [tu-email@ejemplo.com](mailto:tu-email@ejemplo.com)  
+🌱 Actualmente aprendiendo **[ROS]**  
+💼 En busca de oportunidades como **[ingeniero robótico]**  
+📫 Puedes contactarme en: [sanespi012@gmail.com](mailto:tu-email@ejemplo.com)  
 🌐 Portfolio: [tuweb.dev](https://tuweb.dev)
 
 ---
